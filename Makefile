@@ -11,3 +11,6 @@ sort.o:sort.c
 
 main.o:main.c
 	gcc -c main.c
+	
+	
+	
