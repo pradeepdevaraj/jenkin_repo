@@ -1,8 +1,5 @@
 void  main ()
 
-
-
-
 {
 	bigg ();
 pal();
